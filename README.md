@@ -703,6 +703,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ayush Rai](https://github.com/Rai-Ayush)
   - [Ayush Raj](https://github.com/imyoungsparda)
   - [Ayush Sarode](https://github.com/AyushSarode)
+  - [Ayush Srivastava](https://github.com/ayush-a-srivastava)
   - [Ayush Varshney](https://github.com/Avtech04)
   - [Ayush](https://github.com/ayushsgithub)
   - [Ayushi Vamne](https://github.com/Ayushi15-Vamne)
